@@ -10,7 +10,7 @@
 
 ## LAB CONTENT
 | Lab number | Week | Content |
-| :---: | --- | --- | --- |
+| :---: | --- | --- |
 | 1 | 2 | basic image process |
 | 1 | 3 | image blending |
 | 1 | 4 | convolution and cross-correlation |

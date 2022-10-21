@@ -6,15 +6,16 @@
 <h1 align="center">
   
   CS231 - Nhap mon gioi thieu may tinh
-  </h1>
+  Giao vien: Nguyen Vinh Tiep
+</h1>
 
 ## LAB CONTENT
 | Lab number | Week | Content |
 | :---: | --- | --- |
 | 1 | 2 | basic image process |
-| 1 | 3 | image blending |
-| 1 | 4 | convolution and cross-correlation |
-| 1 | 5 | template matching |
+| 2 | 3 | image blending |
+| 3 | 4 | convolution and cross-correlation |
+| 4 | 5 | template matching |
 
 ## FINAL PROJECT
 ### Project name

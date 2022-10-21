@@ -6,6 +6,9 @@
 <h1 align="center">
   
   CS231 - Nhap mon gioi thieu may tinh
+</h1>
+
+<h1 align="center">
   Giao vien: Nguyen Vinh Tiep
 </h1>
 

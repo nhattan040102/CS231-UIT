@@ -19,6 +19,7 @@
 | 2 | 3 | image blending |
 | 3 | 4 | convolution and cross-correlation |
 | 4 | 5 | template matching |
+| 5 | 6 | seam carving resize for content-aware img |
 
 ## FINAL PROJECT
 ### Project name

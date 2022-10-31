@@ -20,6 +20,7 @@
 | 3 | 4 | convolution and cross-correlation |
 | 4 | 5 | template matching |
 | 5 | 6 | seam carving resize for content-aware img |
+| 6 | 7 | line detection |
 
 ## FINAL PROJECT
 ### Project name

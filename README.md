@@ -24,4 +24,4 @@
 
 ## FINAL PROJECT
 ### Project name
-### Detail 
+
